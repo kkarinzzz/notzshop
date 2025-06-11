@@ -222,7 +222,7 @@ async function callWendiggAPI(
   try {
     const API_BASE_URL = "https://tokowendigg.com/api/prepaid"
     const API_KEY = "212|J0JTFZkNdM5wUQSowVABhhubqt4pTani3HHOk2Av"
-    const SECRET_KEY = "YOUR_SECRET_KEY_HERE" // Ganti dengan secret key yang benar
+    const SECRET_KEY = "aa7inAr3mQ4XqSNYWtfO9aZvpxd48p0Y" // Ganti dengan secret key yang benar
 
     // Format payload sesuai dokumentasi Wendigg
     const payload = {

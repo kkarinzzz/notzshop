@@ -8,8 +8,8 @@ export interface AdminUser {
 
 const ADMIN_USERS: AdminUser[] = [
   {
-    username: "admin",
-    password: "notzshop2025", // Ganti password ini!
+    username: "Monik",
+    password: "011107", // Ganti password ini!
     role: "admin",
   },
   {

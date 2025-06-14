@@ -102,7 +102,7 @@ export function AdminLogin({ onLogin }: AdminLoginProps) {
 
           <div className="mt-6 text-xs text-gray-500 text-center">
             <p>Demo Credentials:</p>
-            <p>Username: admin | Password: notzshop2025</p>
+            <p>Username: apa ya | Password: cari sendiri wlee</p>
           </div>
         </CardContent>
       </Card>

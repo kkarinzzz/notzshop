@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "NotzShop - Gaming Top-up Website",
+  title: "NotzShop - Topup Terpercaya",
   description: "Top-up your favorite games with NotzShop",
     generator: 'v0.dev'
 }
